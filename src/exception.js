@@ -4,7 +4,7 @@ const ErrorEnum = {
   NOTE_ABNORMAL: { code: -510001, msg: "笔记状态异常，请稍后查看" },
   NOTE_SECRETE_FAULT: { code: -510001, msg: "当前内容无法展示" },
   SIGN_FAULT: { code: 300015, msg: "浏览器异常，请尝试关闭/卸载风险插件或重启试试！" },
-  SESSION_EXPIRED: { code: -100, msg: "登录已过期" }
+  SESSION_EXPIRED: { code: -100, msg: "登录已过期" },
 };
 
 // Custom error classes
@@ -47,6 +47,5 @@ module.exports = {
   DataFetchError,
   IPBlockError,
   SignError,
-  NeedVerifyError
+  NeedVerifyError,
 };
-    

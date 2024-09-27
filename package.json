@@ -1,7 +1,7 @@
 {
-  "name": "xhs-js",
-  "version": "0.0.1",
-  "description": "基于小红书web端进行的API封装,Javascript版本",
+  "name": "xhs",
+  "version": "1.0.0",
+  "description": "",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "exports": {
