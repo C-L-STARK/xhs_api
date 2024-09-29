@@ -13,6 +13,8 @@
 |getUserInfo|获取指定用户详情|✓|2024-09-24|
 |getNoteListByUserId|获取指定用户的帖子列表|✓|2024-09-24|
 
+> 如需扩展更多接口，请提交 issue
+
 ## 使用办法
 
 - 获取 Cookie
